@@ -1,0 +1,2 @@
+# EmployeeTrackerSimplified
+MySQL, node, inquirer
